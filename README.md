@@ -12,11 +12,11 @@
 
 ###Github开源项目
 
-[基于Vue2.0的一些组件，持续更新中](https://kikyives.github.io/learn/Vue/vue-component/dist/index.html)
-
 [自己学习的东西](https://github.com/kikyives/learn)
 
 [个人博客，期待...](https://kikyives.github.io)
+
+[基于Vue2.0的一些组件，持续更新中](https://kikyives.github.io/learn/Vue/vue-component/dist/index.html)
 
 [很久以前写的一个移动端动画Demo](https://github.com/kikyives/learn/tree/gh-pages/wxbg)
 
