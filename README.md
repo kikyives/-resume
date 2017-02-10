@@ -16,7 +16,7 @@
 
 [自己学习的东西](https://github.com/kikyives/learn)
 
-[个人博客，虽然比较懒没怎么更新](https://kikyives.github.io)
+[个人博客，期待...](https://kikyives.github.io)
 
 [很久以前写的一个移动端动画Demo](https://github.com/kikyives/learn/tree/gh-pages/wxbg)
 
@@ -26,6 +26,6 @@
 
 这个简历是基于jekyll模板，然后自己做了更改。如果大家有兴趣，可以根据下面的内容选择自己喜欢的模板。
 
-[http://themes.3rdwavemedia.com/](http://themes.3rdwavemedia.com/)
+[Jekyll Themes](http://blog.webjeda.com/jekyll-themes/)
 
-[**Jekyll Themes**](http://blog.webjeda.com/jekyll-themes)
+[3rdwavemedia Themes](http://themes.3rdwavemedia.com/)
